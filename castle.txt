@@ -1,0 +1,226 @@
+22 110101 001111
+Xxtsxo
+Xstxto
+toxtxo
+xxsoss
+oxstWX
+stsstK
+
+
+o=diamond
+s=spade
+t=heart
+x=club
+
+s=star
+o=brick
+x=cross-hatch
+t=horizontal line
+
+1 111111 1111
+2 111111 1111
+3 111111 1111
+4 111111 1111
+5 111111 1111
+6 11111 1111
+7 11111 11111
+8 11111 11111
+9 11111 11111
+10 01111 11111
+11 01111 11111
+12 01111 11111
+13 01111 111111
+14 01111 111111
+15 01111 111111
+16 11101 111111
+17 11101 111111
+18 11101 111111
+19 011111 111111
+20 011111 111111
+21 011111 111111
+22 110101 001111
+
+
+
+
+
+Level 1:
+111111 1111
+oXsxxt
+sootxt
+ooxsxo
+xsttoK
+
+Level 2:
+111111 1111
+txxxts
+oossoo
+sxttWt
+xotssK
+
+o=diamond
+s=spade
+t=heart
+x=club
+
+Level 3:
+111111 1111
+tWxtoo
+oottox
+sttoss
+sstoxK
+
+t=triangle
+o=circle
+x=diamond
+s=square
+
+Level 4:
+11111 1111
+oxott
+stsxx
+xsots
+xtooK
+
+Level 5:
+111111 1111
+sotxxW
+sotxxs
+tsxsts
+totttK
+
+Level 6:
+11111 1111
+tsxss
+oxtxo
+xtots
+toxoK
+
+level 7:
+11111 11111
+tsxoo
+txxxs
+ttsox
+sssWx
+oottK
+
+level 8:
+11111 11111
+ttxts
+sssoo
+sxtsx
+xoott
+xsoxK
+
+Level 9:
+11111 11111
+ooxss
+stoto
+sxotx
+tsxot
+xxxtK
+
+Level 10:
+01111 11111
+sxxxx
+stsot
+tsxst
+xosoo
+oootK
+
+Level 11:
+01111 11111
+sottt
+xxsxt
+sttos
+xxxso
+oxosK
+
+Level 12:
+01111 11111
+ttsss
+xsoox
+ooxox
+xtsWt
+txstK
+
+Level 13:
+01111 111111
+soxts
+ttoso
+oxxot
+xstxo
+otsxs
+stoxK
+
+Level 14:
+01111 111111
+xtsso
+xttxs
+ottot
+osxxt
+osoox
+xtxsK
+
+Level 15:
+01111 111111
+sxstt
+ttoxx
+sotoo
+xsxos
+toxso
+sttxK
+
+Level 16:
+11101 111111
+tsxtx
+xoots
+tostt
+sxsxs
+sxoxo
+ttosK
+
+Level 17:
+11101 111111
+sxxss
+ottst
+ssooo
+tsoxs
+stsWo
+ostoK
+
+Level 18: 
+11101 111111
+otsst
+txxto
+oxsxx
+xoooo
+xssts
+ttsxK
+
+Level 19:
+011111 111111
+xtoxxo
+sottoX
+sxoxsx
+xsstst
+tosost
+xottxK
+
+Level 20:
+011111 111111
+osxxso
+txttxX
+ooxoos
+txxsst
+osstst
+ttsooK
+
+level 21 (final)
+110101 001111
+Xsxtoo
+Xoosst
+sxttts
+xxtssx
+soxtWX
+txootK

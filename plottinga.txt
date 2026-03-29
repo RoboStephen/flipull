@@ -1,0 +1,126 @@
+Level solutions for plottinga
+
+===0
+R3, C4, R1, C4, C1, C4, R5, R3, C2, R3,
+===1
+C4, R4, C3, R2, R4, C1, R3, R1,
+===2
+R1, C5, C4, C3, R2, R3, R1, R5, R4, R1, R4, C3,
+===3
+C3, R3, R2, R3, R2, R3, C2, C1, R4, R1, R3, R5, R2,
+===4
+R4, R2, C3, R5, R4, R3, R4, R5, C1, C3, C1, R3, R1, R4, R3, R6, R1,
+===5
+R4, C5, R1, C3, C2, C4, C2, R3, R3, R5, C4, C3, C1, C5,
+===6
+R2, R4, R5, C2, C4, R2, R4, R3, R2, R6, R2, R2, R3, C3, C4, C3, R3, R1, R4,
+===7
+C5, C3, C5, C4, C3, C4, R4, R2, R4, R6, R1, C3, C4, R2, C1, C3, C2,
+===8
+R2, R2, R3, R6, R2, C2, C5, C4, C5, C2, C4, R4, C2, R4, R1, C2, C3, R3, C5, R2, C5, R1, R6,
+===9
+R3, R2, R3, C4, R3, R6, C4, C3, C6, R2, R1, R2, R3, R2, C5, C3, C6, R1,
+===10
+R1, R1, R3, C3, R2, R4, R1, R4, R6, R5, R6, R1, C3, R2, R5, C2, R3, R1, R5, R3, R1,
+===11
+C2, R5, C3, C2, C3, R2, C6, R6, C4, R4, C4, R1, R4, R1, R3, R4, R3, R4, C4, R2, R1,
+===12
+C3, C5, R6, C3, R6, C5, R1, R3, R3, C4, R3, R1, C3, R3, R3, C2, C4,
+===13
+R5, C2, R3, R3, R2, R4, R2, R1, R2, C6, R2, C6, R1, R1, R4, R3, R2, R3, R2, R1,
+===14
+R5, C1, R1, R5, R3, C1, R2, R5, C1, C3, R4, R3, R1, R4, R4, R5, R2, C4, R2, R4, R3, R1,
+===15
+C6, R4, C6, C1, R4, C6, R5, R6, R1, R1, R5, R1, C2, R1, R3, C2, R4, R1, C3, R3,
+===16
+C2, R3, R3, R2, R1, R4, R2, R4, R5, R3, R5, R1, R5, R4, R2, R1,
+===17
+R6, R5, R2, R5, R4, R6, R2, R5, R3, R4, R1, R2, R1, R3, R6, R4, R5, R2, R4, R1, R4,
+===18
+C3, C1, C5, C3, C1, C3, C2, C3, C1, C2, R6, R4, R2, C1, C2, C4,
+===19
+R5, R4, R5, R4, R1, R5, R2, C4, R5, R4, R2, R3, R2, R1, R2, R5, R1, R3,
+===20
+R4, C5, R3, C5, R6, R4, C2, R5, C1, C5, R4, R1, R4, R3, C2, MISS, R1,
+
+R4, R4, C1, R5, C1, R1, R3, R1, R5, R3, C2, R5, R6, R1, R3, R4, R5, R3, R4, R1,
+===21
+R6, C3, C1, C5, C1, C3, R3, C5, R2, C3, R1, C5, R2, R3, R6, C2, C5, R2, R1,
+===22
+R5, R5, C4, R1, R6, C5, R1, R5, C4, R1, C2, C1, C4, C5, R6, R1, R6, C3,
+===23
+R4, R6, R1, R4, R2, R3, R1, R1, R6, C5, C4, C3, C5, R3, R6, R1, R4, R1, C4,
+===24
+R5, R3, C6, C2, R2, R5, C6, R3, R5, R4, C1, C6, R6, C2, R2, C2, R3, R4, R2, R1, R2, C5, R1,
+===25
+R2, R5, R4, R3, C2, R2, R6, R2, R6, R4, C2, C1, R4, R6, R1, R6, R2, R2, R3, R3, R2, MISS, R1,
+
+R6, C6, R2, R5, R2, R6, C1, C2, C6, R2, R6, R1, C6, C2, R4, R1, R5, R2, C5, R3, R1,
+===26
+R3, R2, C6, R3, C6, R6, R3, R4, R5, R2, R3, C2, C4, R2, R3, R4, R3, C4, R4, R2, R4, R1,
+===27
+C6, R2, R2, C4, C6, R2, C6, R1, R4, R1, R4, R5, C4, R1, R5, R1, C4, C3, R1, R3, R5, R2, C4, R4, R1,
+===28
+R4, R4, R2, C3, C6, R6, C1, C6, R1, R2, R3, R2, R6, C3, R5, C3, R4, R5, R3, R2, R1,
+===29
+R5, R1, R4, C4, R3, C4, R5, C4, R6, C3, R5, R6, C5, C3, C5, C3, C2, C5, R1, C5, R6, C5, R3, R1,
+===30
+C4, R1, C3, C1, C3, C2, R1, C2, C5, C3, R1, C5, R1, C5, C3,
+===31
+R2, R3, C5, R2, R5, R4, R1, R4, R4, R2, R1, C5, R5, R3, R4, R1, R4, R2,
+===32
+C2, C3, C4, R5, C1, C4, R3, R2, C4, C1, C5, R3, R3, R2,
+===33
+R4, R3, R1, C5, R4, R1, C3, R5, C4, R1, R4, R1,
+===34
+C1, R5, R1, R5, R2, C3, C2, R5, R1, R4, R2, R4, R3, R4, R2, R1,
+===35
+C3, C5, C3, R3, R2, C5, R5, C1, C5, R1, R3, C4, R1, C4,
+===36
+R3, R5, R4, C3, C1, C4, R4, C2, R1, C4, C1, R3, R1, R3, C2, C5,
+===37
+R2, R2, R5, C4, R6, C2, R2, R1, C4, R2, R4, C2, R6, C4, R6, R1, R5, C2, C4, R6, C3,
+===38
+C5, R2, C1, R2, C4, C1, C2, C4, C1, C5, C3, R2, C3, R1, R6, C4, C3, R1,
+===39
+R4, C6, C3, C2, C3, R4, C2, R3, R1, C6, C3, R3, R5, C4, C2, R2, C1, C6, C5,
+===40
+C3, R3, C3, R5, R1, R1, R3, C4, R4, R6, R1, R5, R4, R4, R2, R5, C3, C4, C6, R2, R1,
+===41
+R5, R3, R1, R4, R2, C3, R1, C3, C2, R5, R2, R5, R2, R2, R5, R2, C3, R1, C5,
+===42
+R2, C4, R2, R4, C2, R5, R2, C3, R4, R1, R1, R2, R1, C4, R3, R1, R5, R3, R6, R3,
+===43
+R3, R3, R3, R3, R1, C2, R4, R1, R6, C5, C2, R4, R6, R3, R6, C3, R4, C2, C4,
+===44
+C6, C5, R3, R5, R4, C2, R5, R3, R2, R1, C5, R1, R4, R3, R2,
+===45
+C4, C1, R2, R2, R5, R6, C3, C6, C3, R6, R1, C3, R3, C3, C1, R3, C1, R4, R1, R3, R2, R3, R1,
+===46
+R6, R4, R4, R5, R4, C1, R3, C1, R4, R1, C3, C2, R6, R1, R5, R4, R3, R1, R4, R6, R1, R3, R5, R1,
+===47
+R3, R2, R1, C1, R5, C2, R6, C2, R3, R6, C1, R5, R3, R2, R3, R2, R1, R3, R1, R4,
+===48
+R5, R3, R1, R5, C2, R2, R3, R5, R4, R1, R2, R2, R4, R2, R6, R1, R2, R1, R2,
+===49
+C5, C2, R4, R6, R4, C1, C3, C1, R6, R4, C4, C5, R2, C3, C5, C1, R4, C2, C4,
+===50
+R2, C4, R4, R2, R5, R1, R4, R1, R2, R5, R5, R1, R5, R3, R1, C4, R2, R1,
+===51
+C5, R1, R5, R3, C2, R3, R6, R1, R5, R3, R1, R1, R1, R3, R3, R1, R3, R1, R4,
+===52
+C2, R6, R3, R6, C1, C2, R1, R2, R3, R6, R1, R3, R2, R6, R3, R1, R2, R1, R2,
+===53
+C2, C3, C1, C4, C2, C4, C3, R5, C2, C3, C4, R5, C2, C3, C5, R1, C1, C4,
+===54
+R4, C5, R4, R6, C5, R4, R2, R4, R1, R4, C3, R3, C3, R1, R2, R6, R2, C4,
+===55
+C5, R6, C1, R6, R1, R1, R5, R3, R3, R1, C5, R3, R6, R2, R1, R4, R1, R4,
+===56
+R3, R2, R3, R1, R3, R3, C2, R2, R4, R2, C6, R1, R2, R5, R1, R5, R2, R3, R2, R1,
+===57
+R2, R3, C2, R6, R3, C1, C4, R2, C4, R1, R4, R6, R1, R3, R4, R2, R5, C4, C6, R3, R1, R2,
+===58
+R4, R3, R6, R2, R2, R4, R1, R3, C3, R4, R4, R2, R5, R2, R1, R4, C3, R3, R2, R1,
+===59
+R2, R6, R3, R5, R6, R2, R1, R3, R1, R6, R5, C1, C3, R3, R1, R4, R2, C3, C6, R1, R2, R2, R3, R1,

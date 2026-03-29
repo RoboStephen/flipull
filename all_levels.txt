@@ -1,0 +1,528 @@
+0 9 5 5
+R1 R2 R3 R4 R5 C5 C5 C5 C4 C3 C2 C1 
+ootsx
+otxss
+txtoo
+stxss
+xxtoo
+
+1 9 5 5 
+R1 R2 R3 R4 R5 C5 C5 C5 C4 C3 C2 C1 
+totsx
+xxssx
+stoot
+txssx
+otoot
+
+2 9 5 5
+R1 R2 R3 R4 R5 C5 C5 C5 C4 C4 C3 C1 
+xxsto
+ossxt
+tootx
+sssxt
+xooto
+
+3 8 5 5 
+R1 R2 R3 R4 R5 C5 C5 C5 C5 C3 C2 C1 
+ssxto
+ssxto
+totxs
+osxto
+xotxs
+
+4 8 6 5
+R1 R2 R3 R4 R5 R6 C5 C5 C3 C5 C1 C4
+sstox
+xxtoo
+stxss
+txtoo
+otxss
+xtoot
+
+5 8 6 5
+R1 X R3 R4 R5 R6 C5 C5 C4 C3 C2 C1
+xxots
+sssxt
+xootx
+ossxt
+tootx
+soott
+
+6 7 6 5
+R1 R2 R3 R4 R5 R6 C4 C4 C4 C3 C2 C2
+oxost
+stxss
+txtoo
+otxss
+xxtoo
+txsot
+
+7 7 6 5
+R1 R2 X R4 X R6 C3 C5 C4 C4 C2 C1
+toxst
+ootxs
+osxto
+xotxs
+ssxto
+totxs
+
+8 8 6 6
+R1 R2 R3 R4 R5 R6 C6 C1 C5 C4 C3 C2
+sxstox
+tootxs
+ssxtoo
+xtxssx
+ttootx
+ossxto
+
+9 8 6 6
+R1 R2 R3 R4 R5 R6 C6 C6 C2 C3 C4 C5
+oxostt
+xssxto
+ootxss
+xxtoot
+sxssxt
+tootxs
+
+10 8 6 6
+R1 R2 R3 R4 R5 R6 C5 C6 C3 C2 C2 C2
+sxotsx
+tootxs
+tsxtoo
+otxssx
+stootx
+xssxto
+
+11 8 6 6
+R1 R2 R3 R4 R5 R6 C6 C6 C6 C4 C3 C2
+otttss
+xssxto
+ootxss
+oxttts
+xoxxos
+xtsxoo
+
+12 7 6 5
+R1 X R3 R4 X R6 C4 C5 C3 X C2 X
+tooxx
+xostt
+tsoxx
+sostt
+soxxo
+sstto
+
+13 7 5 6
+R1 R2 R3 R4 R5 C6 C6 C6 C2 C2 C5 C3
+ootoxx
+tostts
+soxxos
+sttsox
+xxostt
+
+14 7 6 6
+R1 R2 R3 R4 R5 R6 C1 C6 C6 C6 C4 C3
+osxsto
+toxxos
+sttsox
+xxostt
+soxxos
+ttsoxt
+
+15 7 6 6
+R1 X R3 R4 R5 R6 C6 C1 C3 C3 C3 C2
+tooosx
+tttsox
+sxostt
+ssoxxo
+sttsox
+xxostx
+
+16 7 6 5
+R1 R2 R3 R4 R5 R6 X C1 C2 C5 C5 C5
+otsxo
+tsoxx
+sostt
+xsoxx
+oostt
+tsoxt
+
+17 7 6 5
+R1 R2 R3 R4 R5 R6 C5 C5 C5 C2 C2 C2
+ootsx
+tstts
+soxxo
+xstts
+ooxxo
+sttxo
+
+18 7 6 5
+X R2 X R4 X R6 C5 C5 C2 C4 C3 C1
+txsoo
+xxost
+ttsox
+xostt
+ssoxx
+ostto
+
+19 7 6 5
+R1 R2 R3 R4 R5 R6 C5 C5 C5 C4 C5 C5
+oxsto
+oxxos
+tttso
+sxxos
+xttso
+xotst
+
+20 7 6 5
+R1 X R3 R4 R5 R6 C5 C5 C2 C1 C1 C1
+txtso
+osoxx
+tostt
+ssoxx
+ostts
+xoxot
+
+21 7 6 5
+R1 R2 R3 X X R6 C3 C5 C1 C5 C2 X
+xsstx
+ttsox
+xostt
+ssoxx
+tostt
+oxooo
+
+22 6 6 5
+R1 X X X R5 R6 C5 C5 C4 C3 C2 C1
+txoso
+sostt
+soxxo
+xsssx
+tootx
+txott
+
+23 6 6 5
+R1 R2 R3 R4 X R6 C3 C3 C4 C5 C5 C5
+txoos
+otxss
+txtoo
+stxss
+xxtoo
+otxst
+
+24 6 6 6
+R1 R2 R3 R4 R5 R6 C6 C5 C1 C2 C2 C2
+xtotsx
+ootxss
+oxtoot
+txssxt
+sootxs
+xsxtos
+
+25 6 6 6 
+R1 R2 R3 R4 R5 R6 C5 C6 C1 C2 C2 C2
+totsxo
+sxssxt
+xootxs
+ssxtoo
+ttxssx
+tootxo
+
+26 6 6 6
+R1 R2 R3 R4 R5 R6 C1 C6 C6 C6 C4 C2
+sxotsx
+ttootx
+ssxtoo
+xtxssx
+stootx
+ossxto
+
+27 6 6 6
+R1 R2 R3 R4 R5 R6 C6 C6 C6 C3 C4 C6
+otsxot
+sxssxt
+ootxss
+txtoot
+xxssxt
+oootxs
+
+28 6 6 6 
+R1 R2 R3 R4 R5 R6 C6 C2 C1 C3 C3 C3
+tssxot
+sxtoot
+xxssxt
+oootxs
+sxtoot
+xssxto
+
+29 6 6 6
+R1 X R3 R4 R5 R6 X X C5 C4 C3 C2
+ototxs
+xxssxt
+sootxs
+tsxtoo
+txssxt
+oootxs
+
+30 6 5 5
+R1 X X X X C5 X C5 C4 C3 C2 C1
+sotsx
+xtoot
+xssxt
+ootxs
+otsxs
+
+31 6 5 5
+R1 R2 R3 R4 R5 C5 X X X X C5 C5
+xtsxo
+xtoot
+sxssx
+ttoot
+oxsso
+
+32 8 5 5
+R1 R2 R3 R4 R5 C5 C5 C5 C4 C3 C2 C1
+totsx
+xootx
+sssxt
+tootx
+ossxt
+
+33 8 5 5
+R1 R2 R3 R4 R5 C5 C5 C5 C4 C4 C3 C1
+oxsto
+ootxx
+txost
+stsox
+xotst
+
+34 7 5 5
+R1 R2 R3 R4 R5 C5 C5 C5 C5 C3 C2 C1
+tsxto
+ssoxx
+tostt
+osoxx
+xostt
+
+35 7 6 5
+R1 R2 R3 R4 R5 R6 C5 C5 C3 C5 C1 C4
+sstox
+xoxxo
+sstts
+toxxo
+ostts
+oxott
+
+36 7 6 5
+R1 X R3 R4 R5 R6 C5 C5 C4 C3 C2 C1
+txots
+stsox
+xxost
+otsox
+txost
+tsoxo
+
+37 6 6 5
+R1 R2 R3 R4 R5 R6 C4 C4 C4 C3 C2 C2
+oxost
+sstts
+toxxo
+ostts
+xoxxo
+sttxo
+
+38 6 6 5
+R1 R2 X R4 X R6 C3 C5 C4 C4 C2 C1
+xoxst
+xostt
+osoxx
+xostt
+ssoxo
+tostt
+
+39 7 6 6
+R1 R2 R3 R4 R5 R6 C6 C1 C5 C4 C3 C2
+sxstoo
+xxostt
+ssoxxo
+xsttso
+txxost
+otsoxt
+
+40 7 6 6
+R1 R2 R3 R4 R5 R6 C6 C6 C2 C3 C4 C5
+oxosts
+ttsoxx
+oostts
+xoxxos
+sttsox
+txostx
+
+41 7 6 6
+R1 R2 R3 R4 R5 R6 C5 C6 C3 C2 C2 C2
+sxotso
+xxostt
+tsoxxo
+osttso
+sxxost
+xtsoxt
+
+42 7 6 6
+R1 R2 R3 R4 R5 R6 C6 C6 C6 C4 C3 C2
+osttss
+ttsoxx
+oostts
+ooxxos
+xttsox
+xxostx
+
+43 6 6 5
+R1 X R3 R4 X R6 C4 C5 C3 X C2 X
+tooxx
+soxxo
+tstts
+soxxo
+sttso
+sxott
+
+44 6 5 6
+R1 R2 R3 R4 R5 C6 C6 C6 C2 C2 C5 C3
+oottts
+toootx
+sssxto
+sotxss
+xxtoxx
+
+45 6 6 6
+R1 R2 R3 R4 R5 R6 C1 C6 C6 C6 C4 C3
+oxxsto
+tssxto
+sotxss
+xxtoot
+xssxto
+otxsot
+
+46 6 6 6
+R1 X R3 R4 R5 R6 C6 C1 C3 C3 C3 C2
+ttooox
+totxss
+sxtoot
+sxssxt
+ootxss
+xxtosx
+
+47 6 6 5
+R1 R2 R3 R4 R5 R6 X C1 C2 C5 C5 C5
+otsxo
+txssx
+stoot
+xxssx
+otoot
+txsot
+
+48 6 6 5
+R1 R2 R3 R4 R5 R6 C5 C5 C5 C2 C2 C2
+totsx
+tootx
+sssxt
+xootx
+ossxt
+ootxs
+
+49 6 6 5
+X R2 X R4 X R6 C5 C5 C2 C4 C3 C1
+txsoo
+sxtoo
+ttxss
+xtoot
+sxssx
+tootx
+
+50 6 6 5
+R1 R2 R3 R4 R5 R6 C5 C5 C5 C4 C5 C5
+sxsto
+osxto
+totxs
+ssxto
+xotxs
+xotot
+
+51 6 6 5
+R1 X R3 R4 R5 R6 C5 C5 C2 C1 C1 C1
+txtso
+oxssx
+ttoot
+sxssx
+tootx
+xsoot
+
+52 6 6 5
+R1 R2 R3 X X  R6 C3 C5 C1 C5 C2 X
+xsoox
+ttxss
+xtoot
+sxssx
+ttoot
+oxsot
+
+53 5 6 5
+R1 X X X R5 R6 C5 C5 C4 C3 C2 C1
+txoso
+stoot
+xssxt
+xootx
+ssxto
+totxs
+
+54 5 6 5
+R1 R2 R3 R4 X R6 C3 C3 C4 C5 C5 C5
+txoss
+xtoot
+txssx
+stoot
+xxssx
+otoot
+
+55 5 6 6
+R1 R2 R3 R4 R5 R6 C6 C5 C1 C2 C2 C2
+xsotsx
+sxttts
+ooxxos
+tttsox
+sxostt
+xsoxoo
+
+56 5 6 6
+R1 R2 R3 R4 R5 R6 C5 C6 C1 C2 C2 C2
+sotsxo
+sttsox
+xxostt
+ssoxxo
+tsttso
+xxoxto
+
+57 5 6 6
+R1 R2 R3 R4 R5 R6 C1 C6 C6 C6 C4 C2
+sootsx
+txxost
+tsoxxo
+xsttso
+sxxost
+otsoxt
+
+58 5 6 6
+R1 R2 R3 R4 R5 R6 C6 C6 C6 C3 C4 C6
+ossxot
+sttsox
+xostts
+toxxos
+xttsox
+oxostx
+
+59 5 6 6
+R1 R2 R3 R4 R5 R6 C6 C2 C1 C3 C3 C3
+tssxot
+soxxos
+xttsox
+oxostt
+soxxos
+ttsoxt
